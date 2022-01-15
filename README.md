@@ -1,9 +1,9 @@
-# OnlineOrderingManagementSystem
+# 72.OnlineOrderingManagementSystem
 
 <p>群: 123300273(大佬群 2TB学习资料,讲解)(入群获取sql文件)</p>
 <p>QQ: 1095737364(加好友获取sql文件)</p>
 
-<p><h1 align="center">网上订餐管理系统</h1></p>
+<p><h1 align="center">72.网上订餐管理系统</h1></p>
 
 
 <p align="center">
